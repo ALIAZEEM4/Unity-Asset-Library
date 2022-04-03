@@ -1,2 +1,2 @@
 # Unity-Asset-Collection
-A collection of useful unity assets
+A collection of useful reusable unity assets
