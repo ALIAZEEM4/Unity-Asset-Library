@@ -1,4 +1,4 @@
-# Non-angled Top Down (Top View) Shadow Caster
+# 2D Non-angled Top Down (Top View) Shadow Caster
 - - - -
 
 ## Features:
