@@ -6,7 +6,7 @@ public class NonAngledTopDownShadowCaster : MonoBehaviour
 {
     #region Variables
     [Header("Settings")]
-    public bool _updateShadowSpritesAtRuntime;
+    [SerializeField] private bool _updateShadowSpritesAtRuntime;
     private static Color _shadowColor = new Color(0, 0, 0, 0.375f); 
     private static Vector2 _shadowOffset = new Vector2(-0.125f, -0.125f);
     
