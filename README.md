@@ -1,7 +1,7 @@
 # Unity Asset Library
 
 - - - -
-An organized collection of useful reusable unity assets. All of these assets are **free** to use. Please report any broken links, spelling mistakes and outdated assets.
+An organized collection of useful, reusable unity assets. All of these assets are **free** to use. Please report any broken links, spelling mistakes and outdated assets.
 
 **Contents:**
 - **[2D](#2d)**
