@@ -1,6 +1,8 @@
 # 2D Non-angled Top Down (Top View) Shadow Caster
 - - - -
 
+![](https://github.com/ALIAZEEM4/Unity-Asset-Library/blob/main/2D/Non-angled%20Top%20Down/Shadow%20Caster/2D%20Non-angled%20Shadow%20Caster%20Showcase.gif)
+
 ## Features:
 - Casts 2D shadows for the set up game object's sprite renderer as well as for the game object's child(ren) sprite renderer(s)
 - Modifiable shadow color and offset (static variables)
