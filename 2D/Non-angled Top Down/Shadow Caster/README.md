@@ -11,3 +11,4 @@
 
 ## How To Use:
 - Attach the 'Shadow Caster' script on any game object has a sprite renderer or has child(ren) sprite renderer(s)
+- Enter playmode and the shadows will be created
